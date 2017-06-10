@@ -1,0 +1,6 @@
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\bin\Debug\Console_Base.exe.config
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\bin\Debug\Console_Base.exe
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\bin\Debug\Console_Base.pdb
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\obj\Debug\Console_Base.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\obj\Debug\Console_Base.exe
+c:\users\oleg\documents\visual studio 2015\Projects\Console_Base\Console_Base\obj\Debug\Console_Base.pdb
